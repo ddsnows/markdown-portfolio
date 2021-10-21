@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Douglas Neves](https://avatars.githubusercontent.com/u/39353102?v=4)
